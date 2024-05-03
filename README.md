@@ -15,15 +15,16 @@ The objective of the project is to obtain a haze free image at the output, when 
 # Simulation Results
 ## Input Image 1
 ![Test_image_input_1](https://github.com/amith-bharadwaj/VLSI_Design_of_Saturation_based_Image_Dehazing/assets/84613258/35d2f08f-dbff-4b0f-bed8-afa4911dd9b2)
-
 ## Output Image 1
 ![Test_image_output_1](https://github.com/amith-bharadwaj/VLSI_Design_of_Saturation_based_Image_Dehazing/assets/84613258/66e13800-43f2-4426-87d3-3a66d041f480)
-
 ## Input Image 2
 ![Test_image_input_2](https://github.com/amith-bharadwaj/VLSI_Design_of_Saturation_based_Image_Dehazing/assets/84613258/55c67614-0dc4-4d74-bd0e-db077e95cb86)
 ## Output Image 2
 ![Test_image_outpu_2](https://github.com/amith-bharadwaj/VLSI_Design_of_Saturation_based_Image_Dehazing/assets/84613258/3c5e176b-3e6f-4e69-91ed-df95a41530e8)
-
+## Input Image 3
+![pic_4 (2)](https://github.com/amith-bharadwaj/VLSI_Design_of_Saturation_based_Image_Dehazing/assets/84613258/f0ef9197-e524-42b8-8c61-687309f95c95)
+## Output Image 3
+![WhatsApp Image 2024-05-03 at 11 52 58 AM](https://github.com/amith-bharadwaj/VLSI_Design_of_Saturation_based_Image_Dehazing/assets/84613258/404145df-91f9-46ac-999b-f076a374c301)
 
 
 
